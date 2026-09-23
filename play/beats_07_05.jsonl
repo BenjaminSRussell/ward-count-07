@@ -143,3 +143,6 @@
 {"n":143,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Clinic roof. Nobody past the west court. We start in 2 steps. Direct on the left lane, open."}
 {"n":144,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof west court. Ivo keeps the crate for the start. 3 steps, direct on the left lane, open."}
 {"n":145,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west court. direct left open. 4 steps. The crate stays for the start."}
+{"n":146,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Clinic roof. Nobody past the west court. We start in 5 steps. Direct on the left lane, open."}
+{"n":147,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof west court. Bess keeps the crate for the start. 6 steps, direct on the left lane, open."}
+{"n":148,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west court. direct left open. 7 steps. The crate stays for the start."}
