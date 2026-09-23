@@ -418,3 +418,6 @@
 {"n":418,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at South stair. Nobody past the east yard. We start in 2 steps. Direct on the left lane, open."}
 {"n":419,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair east yard. Bess keeps the radio coil for the start. 3 steps, direct on the left lane, open."}
 {"n":420,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east yard. direct left open. 4 steps. The radio coil stays for the start."}
+{"n":421,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at the pier. Nobody past the east yard. We start in 5 steps. Direct on the left lane, open."}
+{"n":422,"kind":"place","name":"the pier east yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier east yard. Matt keeps the radio coil for the start. 6 steps, direct on the left lane, open."}
+{"n":423,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east yard. direct left open. 7 steps. The radio coil stays for the start."}
