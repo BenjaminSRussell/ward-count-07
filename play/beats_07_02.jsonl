@@ -152,3 +152,6 @@
 {"n":152,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at High line. Nobody past the north yard. We start in 7 steps. Direct on the left lane, open."}
 {"n":153,"kind":"place","name":"High line north yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line north yard. Nia keeps the drum for the start. 8 steps, direct on the left lane, open."}
 {"n":154,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north yard. direct left open. 2 steps. The drum stays for the start."}
+{"n":155,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at High line. Nobody past the north yard. We start in 3 steps. Direct on the left lane, open."}
+{"n":156,"kind":"place","name":"High line north yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north yard. Ivo keeps the drum for the start. 4 steps, direct on the left lane, open."}
+{"n":157,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north yard. direct left open. 5 steps. The drum stays for the start."}
