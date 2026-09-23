@@ -605,3 +605,6 @@
 {"n":605,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair south yard. Nia keeps the rope for the start. 4 steps, direct on the left lane, open."}
 {"n":606,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south yard. direct left open. 5 steps. The rope stays for the start."}
 {"n":607,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at South stair. Nobody past the south yard. We start in 6 steps. Direct on the left lane, open."}
+{"n":608,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair south yard. Ivo keeps the rope for the start. 7 steps, direct on the left lane, open."}
+{"n":609,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south yard. direct left open. 8 steps. The rope stays for the start."}
+{"n":610,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at South stair. Nobody past the south yard. We start in 2 steps. Direct on the left lane, open."}
