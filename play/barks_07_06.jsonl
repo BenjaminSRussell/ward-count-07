@@ -719,3 +719,6 @@
 {"n":719,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley east court. Bess keeps the hydrant for the start. 3 steps, direct on the left lane, open."}
 {"n":720,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east court. direct left open. 4 steps. The hydrant stays for the start."}
 {"n":721,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at the Lot. Nobody past the east court. We start in 5 steps. Direct on the left lane, open."}
+{"n":722,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot east court. Matt keeps the hydrant for the start. 6 steps, direct on the left lane, open."}
+{"n":723,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east court. direct left open. 7 steps. The hydrant stays for the start."}
+{"n":724,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at the Lot. Nobody past the east court. We start in 8 steps. Direct on the left lane, open."}
