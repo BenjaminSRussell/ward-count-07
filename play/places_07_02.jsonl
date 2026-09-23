@@ -97,3 +97,6 @@
 {"n":97,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north yard. direct left open. 8 steps. The drum stays for the start."}
 {"n":98,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at South stair. Nobody past the north yard. We start in 2 steps. Direct on the left lane, open."}
 {"n":99,"kind":"place","name":"South stair north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north yard. Bess keeps the drum for the start. 3 steps, direct on the left lane, open."}
+{"n":100,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north yard. direct left open. 4 steps. The drum stays for the start."}
+{"n":101,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at the pier. Nobody past the north yard. We start in 5 steps. Direct on the left lane, open."}
+{"n":102,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier north yard. Matt keeps the drum for the start. 6 steps, direct on the left lane, open."}
