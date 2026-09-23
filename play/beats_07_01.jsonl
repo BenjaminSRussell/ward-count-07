@@ -687,3 +687,6 @@
 {"n":687,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at the Lot. Nobody past the north yard. We start in 4 steps. Direct on the left lane, open."}
 {"n":688,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot north yard. Ivo keeps the shutter for the start. 5 steps, direct on the left lane, open."}
 {"n":689,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north yard. direct left open. 6 steps. The shutter stays for the start."}
+{"n":690,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at the Lot. Nobody past the north yard. We start in 7 steps. Direct on the left lane, open."}
+{"n":691,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot north yard. Bess keeps the shutter for the start. 8 steps, direct on the left lane, open."}
+{"n":692,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north yard. direct left open. 2 steps. The shutter stays for the start."}
