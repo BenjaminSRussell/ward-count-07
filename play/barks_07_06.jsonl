@@ -833,3 +833,6 @@
 {"n":833,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard east court. Nia keeps the hydrant for the start. 5 steps, direct on the left lane, open."}
 {"n":834,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east court. direct left open. 6 steps. The hydrant stays for the start."}
 {"n":835,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Switchyard. Nobody past the east court. We start in 7 steps. Direct on the left lane, open."}
+{"n":836,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard east court. Ivo keeps the hydrant for the start. 8 steps, direct on the left lane, open."}
+{"n":837,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. direct left open. 2 steps. The hydrant stays for the start."}
+{"n":838,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Switchyard. Nobody past the east court. We start in 3 steps. Direct on the left lane, open."}
