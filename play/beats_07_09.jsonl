@@ -247,3 +247,6 @@
 {"n":247,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at the Lot. Nobody past the north court. We start in 4 steps. Direct on the left lane, open."}
 {"n":248,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot north court. Ivo keeps the lamp for the start. 5 steps, direct on the left lane, open."}
 {"n":249,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north court. direct left open. 6 steps. The lamp stays for the start."}
+{"n":250,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at the Lot. Nobody past the north court. We start in 7 steps. Direct on the left lane, open."}
+{"n":251,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot north court. Bess keeps the lamp for the start. 8 steps, direct on the left lane, open."}
+{"n":252,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north court. direct left open. 2 steps. The lamp stays for the start."}
