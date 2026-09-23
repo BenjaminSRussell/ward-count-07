@@ -23,3 +23,6 @@
 {"n":23,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at the Lot. Nobody past the north yard. We start in 4 steps. Direct on the left lane, open."}
 {"n":24,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north yard. Ivo keeps the drum for the start. 5 steps, direct on the left lane, open."}
 {"n":25,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north yard. direct left open. 6 steps. The drum stays for the start."}
+{"n":26,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at the Lot. Nobody past the north yard. We start in 7 steps. Direct on the left lane, open."}
+{"n":27,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot north yard. Bess keeps the drum for the start. 8 steps, direct on the left lane, open."}
+{"n":28,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north yard. direct left open. 2 steps. The drum stays for the start."}
