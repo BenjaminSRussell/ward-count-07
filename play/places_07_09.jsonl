@@ -543,3 +543,6 @@
 {"n":543,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north court. direct left open. 6 steps. The rebar stays for the start."}
 {"n":544,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at High line. Nobody past the north court. We start in 7 steps. Direct on the left lane, open."}
 {"n":545,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line north court. Nia keeps the rebar for the start. 8 steps, direct on the left lane, open."}
+{"n":546,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north court. direct left open. 2 steps. The rebar stays for the start."}
+{"n":547,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at High line. Nobody past the north court. We start in 3 steps. Direct on the left lane, open."}
+{"n":548,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line north court. Ivo keeps the rebar for the start. 4 steps, direct on the left lane, open."}
