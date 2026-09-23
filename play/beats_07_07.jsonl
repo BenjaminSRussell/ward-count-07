@@ -72,3 +72,6 @@
 {"n":72,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Stockyard fence. Nobody past the east court. We start in 6 steps. Direct on the left lane, open."}
 {"n":73,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the crate for the start. 7 steps, direct on the left lane, open."}
 {"n":74,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. direct left open. 8 steps. The crate stays for the start."}
+{"n":75,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Stockyard fence. Nobody past the east court. We start in 2 steps. Direct on the left lane, open."}
+{"n":76,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the crate for the start. 3 steps, direct on the left lane, open."}
+{"n":77,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. direct left open. 4 steps. The crate stays for the start."}
